@@ -1,6 +1,7 @@
-<p align="center" style="height: 180px;">
-    <img style="height:10rem" src="https://github-readme-stats.vercel.app/api?username=EzePze&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&theme=radical" />
-    <img style="height:10rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=EzePze&theme=radical&show_icons=true&border=e4e2e2" />
+<p align="center">
+    <img height=160 src="https://github-readme-stats.vercel.app/api?username=EzePze&theme=radical&hide_border=true&count_private=true" />
+    <img height=160 src="https://github-readme-streak-stats.herokuapp.com/?user=EzePze&theme=radical&show_icons=true&hide_border=true&count_private=true" />
+    <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzePze&theme=radical&show_icons=true&hide_border=true&count_private=true" />
 </p>
 
 <div align="center">
