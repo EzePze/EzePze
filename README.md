@@ -1,6 +1,6 @@
 <p align="center">
-    <img height=190 src="https://github-readme-stats.vercel.app/api?username=EzePze&theme=radical&hide_border=true&count_private=true" />
-    <img height=190 src="https://github-readme-streak-stats.herokuapp.com/?user=EzePze&theme=radical&show_icons=true&hide_border=true&count_private=true" />
+    <img height=160 src="https://github-readme-stats.vercel.app/api?username=EzePze&theme=radical&hide_border=true&count_private=true" />
+    <img height=160 src="https://github-readme-streak-stats.herokuapp.com/?user=EzePze&theme=radical&show_icons=true&hide_border=true&count_private=true" />
 </p>
 
 <div align="center">
