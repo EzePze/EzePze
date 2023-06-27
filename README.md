@@ -1,13 +1,3 @@
-<p align="center">
-  <h1 align="center">Welcome to EzePze's Profile 👋</h1>
-</p>
-<ul>
-  <li>👋 Hi, I’m @EzePze</li>
-  <li>❤️ I love programming and picking up new languages</li>
-  <li>💼 I'm a Full Stack Developer at L3A.</li>
-</ul>
-
-
 <p align="center" style="height: 180px;">
     <img style="height:10rem" src="https://github-readme-stats.vercel.app/api?username=EzePze&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&theme=radical" />
     <img style="height:10rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=EzePze&theme=radical&show_icons=true&border=e4e2e2" />
