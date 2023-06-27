@@ -9,10 +9,3 @@
 </p>
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=kyokion&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" /></div>  
-
-<p align="center"> 
-  <div align="center">Visitor count</div>
-  <div align="center">
-    <img src="https://profile-counter.glitch.me/EzePze/count.svg"/>
-  </div> 
-</p>
