@@ -15,4 +15,4 @@
     </picture>
 </div>
 
-<div align="center"><img width=450 src="https://spotify-github-profile.vercel.app/api/view?uid=kyokion&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" /></div>  
+<div align="center"><img width=350 src="https://spotify-github-profile.vercel.app/api/view?uid=kyokion&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" /></div>  
