@@ -3,9 +3,13 @@
     <img style="height:10rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=EzePze&theme=radical&show_icons=true&border=e4e2e2" />
 </p>
 
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=EzePze&theme=tokyonight&column=8)" />
+</div>
+
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=kyokion&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=kyokion&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" /></div>  
